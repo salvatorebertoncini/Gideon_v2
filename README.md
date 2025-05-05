@@ -2,7 +2,7 @@ Gideon is a **costrained genetic** role mining algorithm.
 V2 is intended as an improvement of the old ![Gideon](https://github.com/salvatorebertoncini/Gideon), adopted for my thesis at the University of Milan.
 
 Dependencies:
-* python 12.3
+* python 3.12.3
 * numpy
 
 Main references and sources of inspiration for this repository:
